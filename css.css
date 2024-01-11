@@ -1,0 +1,43 @@
+.logo{
+    width: 280px;
+}
+.background-header{
+    background-color: #1e3769 !important;
+}
+/*header .container-fluid ul .nav-item a{
+    color: #fff;
+}*/
+ul .nav-item{
+    margin: 0px 20px 0px 20px;
+}
+.container-fluid{
+    display: unset !important;
+}
+.navbar-expand .navbar-nav{
+    justify-content:center;
+}
+.show li a{
+    color: #000;
+}
+footer{
+    background-color: #1e3769 !important;
+    color:#fff;
+}
+.is-divider{
+    background-color: rgba(0,0,0,.1);
+    display: block;
+    height: 3px;
+    margin: 1em 0;
+    max-width: 30px;
+    width: 100%;
+}
+footer .row .col img{
+    width :300px;
+    height :150px;
+}
+footer .row{
+    padding:30px;
+}
+.coll_item{
+    color:#000;
+}
